@@ -40,8 +40,8 @@ firstPlayer plays as 'X', secondPlayer plays as 'O'.
 
 ### Description of difficulty levels:
 
-Easy mode places a move randomly on the board.
+- *Easy mode* places a move randomly on the board.
 
-Medium mode checks one step ahead - it will prevent an immediate loss or take an immediate winning chance.
+- *Medium mode* checks one step ahead - it will prevent an immediate loss or take an immediate winning chance.
 
-Hard mode will never lose - it will win whenever you blunder and play a draw whenever you play perfectly.
+- *Hard mode* will never lose - it will win whenever you blunder and play a draw whenever you play perfectly.
