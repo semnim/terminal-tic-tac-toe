@@ -6,16 +6,16 @@ and simplicity.
 
 The game begins with the prompt "Input command". Afterwards, enter two space seperated integers for "row column" to make a move.
 
-Parameter options: "exit" or "start <firstPlayer> <secondPlayer>"
+Command options: "exit" or "start *player_type* *player_type*"
 
-*player parameter:*
+*player parameters for "start":*
   - "user"
   - AI
     - "easy"
     - "medium"
     - "hard"
 
-firstPlayer plays as 'X', secondPlayer plays as 'O'.
+Player 1 plays as 'X', Player 2 plays as 'O'.
 
 ### Examples:
 
